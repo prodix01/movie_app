@@ -4,7 +4,6 @@
     <list default="true" id="8a0fdf0f-5d91-4a8b-b2c9-8362b5503e04" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coffee.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coffee.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575714855113</updated>
-      <workItem from="1575714856936" duration="3505000" />
+      <workItem from="1575714856936" duration="4551000" />
     </task>
     <servers />
   </component>
