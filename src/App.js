@@ -28,8 +28,23 @@ class App extends Component {
     };
 
     // 라이프사이클
+
+    componentDidMount() {
+        this.setState({count : 10});
+    }
+
+    componentWillUnmount() {
+        console.log("componentWillUnmount");
+    }
+
+    componentDidUpdate() {
+        console.log("componentDidUpdate");
+    }
+
+
     render() {
         const {count} = this.state;
+        console.log("render");
         return (
             <div>
                 <h1>State is : {count}</h1>
