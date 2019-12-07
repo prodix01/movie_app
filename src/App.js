@@ -1,11 +1,11 @@
 import React from 'react';
+import Coffee from "./Coffee";
 
 function App() {
   return (
-    <div className="App">
-      <h1>
-        첫 리엑트 페이지
-      </h1>
+    <div>
+        <h1>Hello</h1>
+        <Coffee />
     </div>
   );
 }
