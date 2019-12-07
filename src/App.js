@@ -5,7 +5,9 @@ function App() {
   return (
     <div>
         <h1>Hello</h1>
-        <Coffee />
+        <Coffee favorite="브라질"/>
+        <Coffee favorite="캄보디아"/>
+        <Coffee favorite="스타벅스"/>
     </div>
   );
 }

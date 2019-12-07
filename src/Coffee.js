@@ -1,7 +1,7 @@
 import React from "react";
 
-function Coffee() {
-    return <h3>I love coffee</h3>;
+function Coffee({ favorite }) {
+    return <h3>I love coffee from {favorite}</h3>;
 
 }
 
